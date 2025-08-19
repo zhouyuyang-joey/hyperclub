@@ -1,0 +1,26 @@
+{
+    "_base": "https://raw.githubusercontent.com/zhouyuyang-joey/hyperclub/main/",
+    "bed": "bed/91V_CT_140_fx_loop_bed_squeak_grail_drop.wav",
+    "vbed": [
+        "vbed/B2 - Entre desierto y desierto.wav",
+        "vbed/B2.wav"
+    ],
+    "ml": [
+        "ml/KMRBI_IMK2_140_songstarter_loop_eighthunna_Cmaj.wav",
+        "ml/KMRBI_IMK2_140_synth_stack_loop_whoa_Amaj.wav"
+    ],
+    "dl": [
+        "dl/KMRBI_IMK2_145_drum_loop_indaclub.wav",
+        "dl/KMRBI_IMK2_145_drum_loop_rabbit.wav",
+        "dl/KMRBI_IMK2_155_drum_loop_reload.wav",
+        "dl/MO_WUBZ_137_drum_loop_evil.wav",
+        "dl/MO_WUBZ_169_drum_loop_noble.wav"
+    ],
+    "hello": "hello/MO_SIX_vocal_neutra_hello_Bb.wav",
+    "anime": [
+        "anime/KMRBI_IMK2_135_vocal_stack_loop_cloudy_D#maj.wav",
+        "anime/KMRBI_IMK2_140_vocal_loop_leaveu_Fmaj.wav",
+        "anime/KMRBI_IMK2_145_vocal_loop_time_Fmaj.wav",
+        "anime/MO_SIX_165_vocal_chop_loop_neutra_core_Ebmaj.wav"
+    ]
+}
